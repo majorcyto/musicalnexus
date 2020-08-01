@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+## Musical Nexus
 
-You can use the [editor on GitHub](https://github.com/majorcyto/musicalnexus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Musical Nexus has now been "retired" and the main website is no longer available.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+BUT. We do still have links for you all, our Discord is still available as well and will not be deleted. Also due to some wonderful community members (Grabo, Champ4now) we have archive exports of each Music Hall as well which can be downloaded below, and are mirrored on 3 sites for availability.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Please join our Discord to reach our community!
+<a href="https://discord.gg/0TSI1BAYjIFhusB5" target="_blank"><img src="https://discordapp.com/api/guilds/85055419923300352/widget.png?style=banner2" alt="Musical Nexus Discord" style="max-width:308px"></a>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 3MLE Downloads
 
-- Bulleted
-- List
+We are still supporting downloads for the 3MLE Releases since we have become a main resource for them, you can find the Mabinogi and MapleStory2 version below.
 
-1. Numbered
-2. List
+**Google Drive Mirror**
+- [3MLE Mabinogi Version](https://drive.google.com/file/d/1el2Gc4aIaL8uZfpnxLyvhp65JKntFKSa/view?usp=sharing)
+- [3MLE MapleStory2 Version](https://drive.google.com/file/d/175BpXOcOZTgCBZpwL_RM9nBYwAhcYpDF/view?usp=sharing)
 
-**Bold** and _Italic_ and `Code` text
+**Github Mirror**
+- [3MLE MapleStory2 Version](https://github.com/majorcyto/musicalnexus/raw/gh-pages/3MLE_MapleBeats_Edition_V3.zip)
 
-[Link](url) and ![Image](src)
-```
+## Music Archive Downloads
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Thanks to our community member Grabo, we now have a full export of the Mabinogi Music Hall and the Musical Nexus Music Hall! They come in two flavors, a raw JSON format as well as a HTML format you can open in your browser and search / filter in locally on your computer!
 
-### Jekyll Themes
+### MabiBeats (Mabinogi) Music Hall Archive
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/majorcyto/musicalnexus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Google Drive Mirror**
+- [JSON Version](https://drive.google.com/file/d/16vqOFIlvZpfpdbt3SSs6ah74es0-WDic/view?usp=sharing)
+- [HTML Version](https://drive.google.com/file/d/1u2RhhFzxgeX8Sk7ksXzAlMOA5gtXJI8U/view?usp=sharing)
 
-### Support or Contact
+**Discord Mirror**
+- [JSON Version](https://cdn.discordapp.com/attachments/737125606604537876/737738252013797396/Mabinogi_MML_-_JSON.zip)
+- [HTML Version](https://cdn.discordapp.com/attachments/737125606604537876/737738258414436382/Mabinogi_MML_-_HTML.zip)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Github Mirror**
+- [JSON Version](https://github.com/majorcyto/musicalnexus/raw/gh-pages/Mabinogi_MML_-_JSON.zip)
+- [HTML Version](https://github.com/majorcyto/musicalnexus/raw/gh-pages/Mabinogi_MML_-_HTML.zip)
+
+
+### MapleBeats (MapleStory2) Music Hall Archive
+
+**Google Drive Mirror**
+- [Zip Files Version](https://drive.google.com/file/d/1WuJVk8nejVu6TOT2LmXi-dCP4ybJx2-v/view?usp=sharing)
+- [HTML Version](https://drive.google.com/file/d/19yG88kJ01bPFWvqxQ9IMnq3bpoIUsdte/view?usp=sharing)
+
+**Discord Mirror**
+- [Zip Files Version](https://cdn.discordapp.com/attachments/737125625990611105/737406224819290152/MapleStory_2_MML.zip)
+- [HTML Version](https://cdn.discordapp.com/attachments/737125625990611105/737779774281482300/MapleStory_MML_-_HTML.zip)
+
+**Github Mirror**
+- [Zip Files Version](https://github.com/majorcyto/musicalnexus/raw/gh-pages/MapleStory_2_MML.zip)
+- [HTML Version](https://github.com/majorcyto/musicalnexus/raw/gh-pages/MapleStory_MML_-_HTML.zip)
