@@ -8,6 +8,7 @@ BUT. We do still have links for you all, our Discord is still available as well 
 ### Please join our Discord to reach our community!
 <a href="https://discord.gg/0TSI1BAYjIFhusB5" target="_blank"><img src="https://discordapp.com/api/guilds/85055419923300352/widget.png?style=banner2" alt="Musical Nexus Discord" style="max-width:308px"></a>
 
+---
 
 ## 3MLE Downloads
 
@@ -20,9 +21,12 @@ We are still supporting downloads for the 3MLE Releases since we have become a m
 **Github Mirror**
 - [3MLE MapleStory2 Version](https://github.com/majorcyto/musicalnexus/raw/gh-pages/3MLE_MapleBeats_Edition_V3.zip)
 
+---
+
 ## Music Archive Downloads
 
 Thanks to our community member Grabo, we now have a full export of the Mabinogi Music Hall and the Musical Nexus Music Hall! They come in two flavors, a raw JSON format as well as a HTML format you can open in your browser and search / filter in locally on your computer!
+
 
 ### MabiBeats (Mabinogi) Music Hall Archive
 
