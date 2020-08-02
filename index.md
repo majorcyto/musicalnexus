@@ -1,8 +1,10 @@
 ## Musical Nexus
 
-Musical Nexus has now been "retired" and the main website is no longer available.
+Musical Nexus is now "retired" and the main website is no longer available, an Archive version of the website has taken it's place.
 
-BUT. We do still have links for you all, our Discord is still available as well and will not be deleted. Also due to some wonderful community members (Grabo, Champ4now) we have archive exports of each Music Hall as well which can be downloaded below, and are mirrored on 3 sites for availability.
+You can still interact with our community via our Discord Server which is found below, the Discord is NOT being deleted and will remain available.
+
+Also due to some wonderful community members namely Grabo with some early help from Champ4now we also have complete archive exports of each Music Hall which can be downloaded below. The archives are mirrored on 3 sites for availability.
 
 
 ### Please join our Discord to reach our community!
@@ -12,7 +14,7 @@ BUT. We do still have links for you all, our Discord is still available as well 
 
 ## 3MLE Downloads
 
-We are still supporting downloads for the 3MLE Releases since we have become a main resource for them, you can find the Mabinogi and MapleStory2 version below.
+We are still hosting downloads for the 3MLE Releases since we have become a main resource for them, you can find the Mabinogi and MapleStory2 version below.
 
 **Google Drive Mirror**
 - [3MLE Mabinogi Version](https://drive.google.com/file/d/1el2Gc4aIaL8uZfpnxLyvhp65JKntFKSa/view?usp=sharing)
@@ -23,9 +25,13 @@ We are still supporting downloads for the 3MLE Releases since we have become a m
 
 ---
 
-## Music Archive Downloads
+## Music Hall Archive Downloads
 
-Thanks to our community member Grabo, we now have a full export of the Mabinogi Music Hall and the Musical Nexus Music Hall! They come in two flavors, a raw JSON format as well as a HTML format you can open in your browser and search / filter in locally on your computer!
+Thanks to our community member Grabo, we have full exports of the Mabinogi Music Hall and the Musical Nexus Music Hall! They come in two versions, a raw JSON format (Raw Code) as well as a HTML format that you can open in your browser locally on your computer. Grabo even took some extra steps and made it so you can search and filter on the HTML page to help you find what you are looking for.
+
+**Compatibility Notice**: The HTML version of the archive will only allow you to save files on newer versions of Browsers. Any Chromium Browser (Chrome, Brave, New Edge, Etc) will work, as well as recent versions of Firefox. Older versions of Firefox, Old Edge, and Normal Internet Explorer will not prompt the save dialog box when running the HTML file locally on your computer.
+
+For most users we recommend downloading the HTML versions. Once you download the file, UNZIP the zip file FIRST. Then inside the folder you unzipped look for the "index.html" file and open it in one of the working browsers mentioned above in the previous paragraph.
 
 
 ### MabiBeats (Mabinogi) Music Hall Archive
