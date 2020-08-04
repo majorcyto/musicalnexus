@@ -1,6 +1,6 @@
 ## Musical Nexus
 
-Musical Nexus is now "retired" and the main website is no longer available, an Archive version of the website has taken it's place.
+Musical Nexus is now "retired" and the main website is no longer available, an Archive version of the website has taken its place.
 
 You can still interact with our community via our Discord Server which is found below, the Discord is NOT being deleted and will remain available.
 
